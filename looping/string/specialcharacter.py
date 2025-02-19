@@ -1,0 +1,1 @@
+print(False if string.isalnum() else True)
